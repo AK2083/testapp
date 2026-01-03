@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/AK2083/testapp/compare/v1.0.1...v1.1.0) (2026-01-03)
+
+
+### Features
+
+* add somewhat ([6f81f6b](https://github.com/AK2083/testapp/commit/6f81f6b872d8061f9ffaeafcc99121f9b5e82ad6))
+
 ## [1.0.1](https://github.com/AK2083/testapp/compare/v1.0.0...v1.0.1) (2026-01-03)
 
 
